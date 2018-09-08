@@ -1,1 +1,1 @@
-# DFP_LSSVM_PaveCrackClassification
+# Supplementary file for the article: Nhat-Duc Hoang (2018), "Classification of Asphalt Pavement Cracks Using Laplacian Pyramid Based Image Processing and a Hybrid Computational Approach, Computational Intelligence and Neuroscience
